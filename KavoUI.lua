@@ -110,7 +110,7 @@ local themeStyles = {
         TextColor = Color3.fromRGB(200, 200, 200),
         ElementColor = Color3.fromRGB(38, 45, 71)
     },
-    Sentai = {
+    Midnight = {
         SchemeColor = Color3.fromRGB(161, 165, 162),
         Background = Color3.fromRGB(104, 116, 172),
         Header = Color3.fromRGB(236, 232, 222),
@@ -180,7 +180,7 @@ function Kavo.CreateLib(kavName, themeList)
         themeList = themeStyles.GrapeTheme
     elseif themeList == "Ocean" then
         themeList = themeStyles.Ocean
-    elseif themeList == "Sentai" then
+    elseif themeList == "Midnight" then
         themeList = themeStyles.Midnight
     elseif themeList == "Sentinel" then
         themeList = themeStyles.Sentinel
