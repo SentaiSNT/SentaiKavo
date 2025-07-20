@@ -111,11 +111,11 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(38, 45, 71)
     },
     Midnight = {
-        SchemeColor = Color3.fromRGB(26, 189, 158),
+        SchemeColor = Color3.fromRGB(161, 165, 162),
         Background = Color3.fromRGB(161, 165, 162),
         Header = Color3.fromRGB(57, 81, 105),
         TextColor = Color3.fromRGB(255, 255, 255),
-        ElementColor = Color3.fromRGB(52, 74, 95)
+        ElementColor = Color3.fromRGB(161, 165, 162)
     },
     Sentinel = {
         SchemeColor = Color3.fromRGB(230, 35, 69),
